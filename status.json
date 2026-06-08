@@ -1499,24 +1499,21 @@
       "STOCK": "22 un"
     },
     {
-      "ITEM": "ARENA #100",
-      "STOCK": "435 tn"
+      "ITEM": "Bombas en mtto",
+      "STOCK": "2 un"
     },
     {
-      "ITEM": "ARENA #30/70",
-      "STOCK": "493 tn"
+      "ITEM": "Bombas fuera de servicio",
+      "STOCK": "1 un"
     },
     {
-      "ITEM": "Flojet 533 EM",
-      "STOCK": "14784 kg"
+      "ITEM": "Back up Blender",
+      "STOCK": "1277"
     },
     {
-      "ITEM": "DRP-2340",
-      "STOCK": "350 kg"
-    },
-    {
-      "ITEM": "DRMAX-9115",
+      "ITEM": "#",
       "STOCK": "#VALUE!"
     }
+    
   ]
 }
