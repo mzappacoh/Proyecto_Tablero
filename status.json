@@ -1509,10 +1509,6 @@
     {
       "ITEM": "Back up Blender",
       "STOCK": "1277"
-    },
-    {
-      "ITEM": "#",
-      "STOCK": "#VALUE!"
     }
     
   ]
