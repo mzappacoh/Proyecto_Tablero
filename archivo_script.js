@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded', function(){
   /* ========= CONFIG ========= */
   var JSON_CANDIDATES=[
-    'https://mzappacoh.github.io/Proyecto_Tablero/status.json',
+    'https://baseslucas8071-maker.github.io/tablero/status.json',
+    /*'https://mzappacoh.github.io/Proyecto_Tablero/status.json',*/
     'status.json'
   ];
   var JSON_URL=JSON_CANDIDATES[0];
